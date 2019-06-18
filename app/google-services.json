@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813793755253",
+    "firebase_url": "https://eminent-c0680.firebaseio.com",
+    "project_id": "eminent-c0680",
+    "storage_bucket": "eminent-c0680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813793755253:android:73d94f22590863ae",
+        "android_client_info": {
+          "package_name": "com.kamel.eminent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813793755253-1qlobp6q69hi49j43em3i6qlc2891cif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamel.eminent",
+            "certificate_hash": "6a4c22cc258240b47f37c7bcb829a5b992dd8f3c"
+          }
+        },
+        {
+          "client_id": "813793755253-0p4t6c8n19a4redb3n9j29l38hd8ga3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh3ls5bT7ondLeygUdT-06wu8rTxsxZeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813793755253-0p4t6c8n19a4redb3n9j29l38hd8ga3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
